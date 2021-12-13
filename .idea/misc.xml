@@ -6,13 +6,16 @@
         <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/activity_add_photo.xml" value="0.264" />
+        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/activity_comment.xml" value="0.264" />
         <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/activity_login_activty.xml" value="0.264" />
-        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/fragment_alarm.xml" value="0.1" />
-        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
-        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/fragment_grid.xml" value="0.1" />
-        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/fragment_user.xml" value="0.1" />
-        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/menu/bottom_navigation_main.xml" value="0.1" />
+        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/fragment_grid.xml" value="0.264" />
+        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/fragment_user.xml" value="0.4" />
+        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/item_comment.xml" value="0.264" />
+        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/layout/item_detail.xml" value="0.2" />
+        <entry key="..\:/Users/Grensil/AndroidStudioProjects/Gre_nstagram/app/src/main/res/menu/bottom_navigation_main.xml" value="0.264" />
       </map>
     </option>
   </component>
